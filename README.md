@@ -7,6 +7,7 @@
   * EKS cluster
   * security groups
   * ECR
+  * ELB to work as application Load Balancer
 
 # after running our first "terraform apply" we have to share the .tfstate files
  so to keep the idempotency shared
